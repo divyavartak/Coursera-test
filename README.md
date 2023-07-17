@@ -1,2 +1,1 @@
-# fydivya
-A=int(input("enter no."))
+Coursera test assignments
